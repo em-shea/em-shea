@@ -10,4 +10,4 @@ A few of my favorite projects:
 - 🧙 Magic: The Gathering card finder - [homepage](https://mtg.emshea.com/), [repo](https://github.com/em-shea/mtg-cards)
 - 🐱 Neko Atsume: Cat Collector API - [homepage](https://neko-atsume.emshea.com/), [repo](https://github.com/em-shea/neko-atsume)
 
-Currently AWS partner business development manager for serverless.
+Currently AWS partner development manager for serverless.
