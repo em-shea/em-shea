@@ -9,4 +9,4 @@ A few of my favorite personal projects:
 - 🧙 Magic: The Gathering card finder - [homepage](https://mtg.emshea.com/), [repo](https://github.com/em-shea/mtg-cards)
 - 🐱 Neko Atsume: Cat Collector API - [homepage](https://neko-atsume.emshea.com/), [repo](https://github.com/em-shea/neko-atsume)
 
-I'm currently Sr. Serverless GTM Specialist at AWS.
+I'm currently Sr. Serverless GTM Specialist at AWS. These are my personal projects here.
